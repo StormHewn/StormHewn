@@ -3,7 +3,7 @@ I'm StormHewn, an aspiring Software Engineer and current college student. You ca
 
 # Goals
 To advance my career goals, I am working on learning these languages/skills.
-- [c] C# <span style="color: grey">(Current Project - )</span>
+- [x] C# <span style="color: grey">(Current Project)</span>
 - [ ] SQL
 - [ ] Java 
 - [ ] C++ 
