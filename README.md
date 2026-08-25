@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi There!
+I'm StormHewn, an aspiring Software Engineer and current college student. You can view my projects [here.](https://github.com/StormHewn?tab=repositories)
+
+# Goals
+To advance my career goals, I am working on learning these languages/skills.
+- [c] C# <span style="color: grey">(Current Project - )</span>
+- [ ] SQL
+- [ ] Java 
+- [ ] C++ 
+- [ ] Python
 
 <!--
 **StormHewn/StormHewn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
